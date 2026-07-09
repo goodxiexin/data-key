@@ -1,6 +1,11 @@
 {
-  "RIP4LDI-7HARI-AJ53VP": "2026-07-16T08:25:33.559+07:00",
-  "RIP4LDI-6JAM-X1AGMV": "2026-07-09T02:39:20.070+07:00",
-  "RIP4LDI-3JAM-DHIU8C": "2026-07-08T23:30:19.153+07:00",
-  "RIP4LDI-UNLIMITED-ADMIN": "2099-12-31T23:59:59.999+07:00"
+  "RIP4LDI-7HARI-TEST": {
+    "expired": "2026-05-01T23:59:59+07:00",
+    "status": "active"
+  },
+  "RIP4LDI-7HARI-NAKAL": {
+    "expired": "2026-06-01T23:59:59+07:00",
+    "status": "revoked",
+    "reason": "Share ke 3 orang"
+  }
 }
