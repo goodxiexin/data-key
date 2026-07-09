@@ -1,11 +1,3 @@
 {
-  "RIP4LDI-7HARI-TEST": {
-    "expired": "2026-08-01T23:59:59+07:00",
-    "status": "active"
-  },
-  "RIP4LDI-7HARI-NAKAL": {
-    "expired": "2026-06-01T23:59:59+07:00",
-    "status": "revoked",
-    "reason": "Share ke 3 orang"
-  }
+"RIP4LDI-1HARI-JONE7K": "2026-07-10T13:04:46.638+07:00",
 }
